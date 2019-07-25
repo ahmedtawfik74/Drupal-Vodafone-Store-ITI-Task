@@ -9,7 +9,7 @@
 ### In your xammp/htdocs open terminal/CMD whatever you are use and make following statments.
 #####    1-Run git clone https://github.com/ahmedtawfik74/Drupal-Vodafone-Store-ITI-Task.git VodafoneStore
 #####    2-Create a MySQL database for the project
-#####    3-Import to it from DB/souq.sql file
+#####    3-Import to it from DB/drupal.sql file
 #### from browser write url localhost/VodafoneStore
 
 #### Username to Log In 
